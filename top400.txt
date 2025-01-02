@@ -3,7 +3,6 @@ password
 12345678
 1q2w3e4r
 sunshine
-letchu_pkt
 football
 1234567890
 computer
