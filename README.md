@@ -13,7 +13,7 @@ This is a Python-based Wi-Fi password cracking tool that uses a dictionary-based
 - **Console Output**: Shows detailed logs of the cracking attempt in a console-like text area.
 - **Clipboard Support**: Allows the user to copy the cracked password to the clipboard.
 - **Custom Wordlist**: Users can use a custom password list to try different password combinations.
-- **Hacker-Themed GUI**: The application uses a dark theme with neon green text, giving it a hacker-style appearance.
+
 
 ## Requirements
 
