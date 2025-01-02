@@ -1,6 +1,6 @@
 # Wi-Fi Password Cracker
 
-This is a Python-based Wi-Fi password cracking tool that uses a dictionary-based approach to attempt to crack the password of WPA2-PSK secured Wi-Fi networks. It uses the `pywifi` library for Wi-Fi management, `tkinter` for the GUI interface, and `pyperclip` to copy cracked passwords to the clipboard. The tool is designed to have a hacker-themed interface, enhancing the user experience.
+This is a Python-based Wi-Fi password cracking tool that uses a dictionary-based approach to attempt to crack the password of WPA2-PSK secured Wi-Fi networks. It uses the `pywifi` library for Wi-Fi management, `tkinter` for the GUI interface, and `pyperclip` to copy cracked passwords to the clipboard. 
 
 
 ![wifibruter](https://github.com/user-attachments/assets/a844647f-57ab-46d0-a414-caf979bf91fb)
